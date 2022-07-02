@@ -121,3 +121,4 @@ def generate_code(code_len=2):
         print(all_chars)
     return code
 generate_code()
+d
